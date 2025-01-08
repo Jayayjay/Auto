@@ -137,7 +137,7 @@ label {
     align-items: center;
 }
 
-.field input {
+.field input, .form-control {
     font-size: 16px;
     line-height: 28px;
     padding: 8px 16px;

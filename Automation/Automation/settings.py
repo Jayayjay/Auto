@@ -41,7 +41,7 @@ INSTALLED_APPS = [
 ]
 
 EXTERNAL_APPS = [
-    'collector'
+    'collector',
 ]
 
 INSTALLED_APPS += EXTERNAL_APPS

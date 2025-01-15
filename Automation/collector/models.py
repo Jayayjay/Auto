@@ -10,6 +10,7 @@ class IDCard(models.Model):
     BLOOD_GROUPS = {
         'O+' : 'O+',
         'O-' : 'O-',
+        'B-' : 'B+',
     }
     
     name = models.CharField(max_length=250)
